@@ -1,2 +1,7 @@
 This is File Y.
+<<<<<<< HEAD
 This is Y in RoughX.
+=======
+
+This is Y.
+>>>>>>> 108909b49ac96ddaf6cff89a0c317aa02b959544
